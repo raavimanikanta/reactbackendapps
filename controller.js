@@ -2,7 +2,7 @@ const get = (req, res) => {
     console.log("REq Params:", req.parms);
     const category = [
         {
-            id:1,
+            id:"1",
             image:"https://www.traveldailymedia.com/assets/2019/10/shutterstock_670261042.jpg",
             name:"Air transport",
             info:"Air transport is the most recent mode of transport. It is the gift of the 20th century to the world.",
@@ -11,7 +11,7 @@ const get = (req, res) => {
   
            },
            {
-              id:2,
+            id:"2",
                image:"https://tse3.mm.bing.net/th?id=OIP.pufdY0L2V9FN8UiVj_ecpgHaEK&pid=Api&P=0&w=309&h=173",
                name:"Rail transport",
                info:"Rail transport is a means of transferring passengers and goods on wheeled vehicles running on rails, which are located on tracks.",
@@ -19,7 +19,7 @@ const get = (req, res) => {
                date:"22/12/2022"
            },
           {
-              id:3,
+            id:"3",
               image:"https://tse3.mm.bing.net/th?id=OIP.qpSkB7IF08vafyuw8h1QtwHaE8&pid=Api&P=0&w=256&h=170",
               name:"Road transport",
               info:"Road Transport is considered to be one of the most cost effective and preferred mode of transport",
@@ -27,7 +27,7 @@ const get = (req, res) => {
               date:"22/12/2022"
           },
           {
-              id:4,
+            id:"4",
               image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tasmanian-Achiever-Burnie-20170322-001.jpg/440px-Tasmanian-Achiever-Burnie-20170322-001.jpg",
               name:"Sea transport",
               info:" waterborne transport, is the transport of people (passengers) or goods (cargo) via waterways.",
@@ -35,7 +35,7 @@ const get = (req, res) => {
               date:"22/12/2022"
           },
           {
-              id:5,
+            id:"5",
               image:"https://tse4.mm.bing.net/th?id=OIP.88su_kcDqVu-OzuAX5a-wAHaEK&pid=Api&P=0&w=308&h=172",
               name:"Pipeline transport",
               info:"Pipeline transport is the long-distance transportation of a liquid or gas through a system of pipes to a market area for consumption",
@@ -43,7 +43,7 @@ const get = (req, res) => {
               date:"22/12/2022"
           },
           {
-              id:6,
+            id:"6",
               image:"https://siliguriobserver.com/wp-content/uploads/2022/04/kgf-chapter-2-to-get-postponed-001-1068x561.jpg",
               name:"KGF 2",
               info:"Rocky kills heir apparent Virat and takes charge as the kingpin of Kolar Gold Fields (K.G.F)",
@@ -51,7 +51,7 @@ const get = (req, res) => {
               date:"14/04/2022"
           },
           {
-              id:7,
+            id:"7",
              image:"https://mir-s3-cdn-cf.behance.net/project_modules/1400/13253227685123.56369171c6fb4.jpg",
              name:"Bahubali 2",
              info:"In the kingdom of Mahishmati, while pursuing his love, Shivudu learns about the conflict ridden past of his family and his legacy. He must now prepare himself to face his newfound arch-enemy. ",
@@ -60,7 +60,7 @@ const get = (req, res) => {
   
           },
          {
-             id:8,
+            id:"8",
              image:"https://i.ytimg.com/vi/ZcbsSX6x0LY/maxresdefault.jpg",
              name:"Jersey",
              info:"Jersey is about a cricketer who quits cricket decides to revive his career at the age of 36 for his sons dream and prove his ability. Arjun who is aiming to play for the Indian national team to fulfill his son's desire for a jersey.",
@@ -68,7 +68,7 @@ const get = (req, res) => {
              date:"22/04/2022"
          },
          {
-             id:9,
+            id:"9",
              image:"https://tse1.mm.bing.net/th?id=OIP.VkSEiLU0SJes7QL_TtpsaQHaF3&pid=Api&P=0&w=220&h=174",
              name:"Pushpa",
              info:"Violence erupts between red sandalwood smugglers and the police charged with bringing down their organization",
@@ -76,7 +76,7 @@ const get = (req, res) => {
              date:"17/12/2021"
          },
          {
-             id:10,
+            id:"10",
              image:"https://tse3.mm.bing.net/th?id=OIP.FZegfGwJwrjjw8OOWNg1mwHaDb&pid=Api&P=0&w=334&h=154",
              name:"RRR",
              info:"In 1920, British governor Scott and his wife Catherine visit Adilabad forest, and forcefully take away Malli, a talented girl from the Gond tribe to Delhi.",
@@ -84,7 +84,7 @@ const get = (req, res) => {
              date:"24/03/2022"
          },
          {
-          id:11,
+            id:"11",
           image:"https://tse2.mm.bing.net/th?id=OIP.FiqbMTlxAQYypvwXzIAPqgHaDv&pid=Api&P=0&w=350&h=176" ,
            name:"Swimming" ,
            info:"Swimming is a great aerobic workout for people with most types of arthritis. It can take the load off your joints and help prevent injuries.",
@@ -92,7 +92,7 @@ const get = (req, res) => {
          description:"Swimming has many more benefits that those obvious advantages seen on the surface; its improvements to overall health go much deeper.Swimming improves muscle definition and strength. Swimmers gain muscle strength throughout the entire body.",
          },
          {
-             id:12,
+            id:"12",
            image:"https://i.pinimg.com/736x/3a/a5/5c/3aa55c890be15c659e9defc2c213bffb.jpg",
            name:"Running",
            info:"While there exists the potential for injury while running (just as there is in any sport), there are many benefits. Some of these benefits include potential weight loss, improved cardiovascular",
@@ -100,7 +100,7 @@ const get = (req, res) => {
          description:"Running is one of the best ways to boost your overall health. According to medical research, you can increase on your good cholesterol levels by running every day. It is also a great way to improve on lung function. ",
          },
          {
-             id:13,
+            id:"13",
              image:"https://tse2.mm.bing.net/th?id=OIP.sTv0Jzu_Q-KSV4463nvdoAHaFj&pid=Api&P=0&w=226&h=170",
              name:"Proper-Diet",
              info:"A good diet can have many profound benefits on physical appearance  Having a healthy protein and unsaturated fat intake is good for the inside as well as the outside of your body,",
@@ -108,7 +108,7 @@ const get = (req, res) => {
           description:"Diet (nutrition) A proper nutrition requires a proper ingestion and, also important, the absorption of vitamins, minerals, and food energy in the form of carbohydrates, proteins, and fats. Dietary habits and choices play a significant role in health and mortality.",
          },
          {
-             id:14,
+            id:"14",
              image:"https://tse3.mm.bing.net/th?id=OIP.bAZ8krlnRv66SGkTerZfWgHaE8&pid=Api&P=0&w=266&h=177",
              name:"Gym..",
              info:"Most people go to the gym to achieve physical fitness goals such as weight loss, muscle tone or increased endurance.But regularly working out at the gym can provide excellent emotional benefits, too.",
@@ -116,15 +116,15 @@ const get = (req, res) => {
          description:"A gym is a place with a number of equipments and machines used by the people to do exercises. Gymnasia apparatuses such as barbells, jumping board, running path, tennis-balls, cricket field, and fencing area are used as exercises",
          },
          {
-             id:15,
+            id:"15",
          image:'https://www.hfe.co.uk/wp-content/uploads/2016/10/Favourite-271-1024x683.jpg',
          name:'Yoga',
          info:"Yoga turns stress into sweat by channeling strength, flexibility, and balance into one well-rounded workout.",
          description:"It's a total mind-body workout that combines strengthening and stretching poses with deep breathing and meditation or relaxation. There are more than 100 different forms of yoga. Some are fast-paced and intense. Others are gentle and relaxing. ",
          date:"Fitness/ 22 jan 2022"
          },
-         {
-          id:16,
+
+         {id:"16",
           image:"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hyderabadi_Chicken_Biryani.jpg/1280px-Hyderabadi_Chicken_Biryani.jpg" ,
           name:"Hyderabadi-biriyani",
           info:"Hyderabadi biryani, also known as Hyderabadi dum biryani, is a style of biryani from Hyderabad, India made with basmati rice and meat (mostly chicken, Lamb Meat).",
@@ -132,7 +132,7 @@ const get = (req, res) => {
           description:"Originating in the kitchens of the Nizam of Hyderabad, it combines elements of Hyderabadi and Mughlai cuisines. Hyderabad biryani is a key dish in Hyderabadi cuisine.Taste is fantastic when compared to other states biriyani",
        },
        {
-           id:17,
+           id:"17",
            image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sapaketti_phat_khi_mao.jpg/408px-Sapaketti_phat_khi_mao.jpg" ,
            name:"Noodles",
            info:"Noodles are a type of food made from unleavened dough which is rolled flat and cut, stretched or extruded, into long strips or strings.",
@@ -140,7 +140,7 @@ const get = (req, res) => {
            description:"Noodles can be refrigerated for short-term storage or dried and stored for future use. Noodles are usually cooked in boiling water, sometimes with cooking oil or salt added. They are also often pan-fried or deep-fried.",
         },
         {
-           id:18,
+            id:"18",
            image:"http://3.bp.blogspot.com/-GQTDywNt4Ks/U0dX3UPasgI/AAAAAAAAhy0/V5xXKzGXx2Q/s1600/Idli.jpg" ,
            name:"Idly",
            info:"Idli or idly are a type of savoury rice cake, originating from the Indian subcontinent, popular as breakfast foods in Southern India and in Sri Lanka. ",
@@ -148,7 +148,7 @@ const get = (req, res) => {
            description:"Since plain idlis are mild in taste, a condiment is considered essential. Idlis are often served with chutneys (coconut based), sambar and Medu vada. However, this varies greatly by region and personal taste, it is also often served with kaara chutney (onion based) or spicy fish curries",
         },
         {
-            id:19,
+            id:"19",
            image:"https://diff.wiki/images/5/58/Roti.jpg" ,
            name:"Chapathi(Roti)",
            info:"Chapathi also known as roti, rotli, safati, shabaati, phulka, is an unleavened flatbread originating from the Indian subcontinent and staple in India, Nepal.",
@@ -156,7 +156,7 @@ const get = (req, res) => {
            description:"Chapatis are one of the most common forms of wheat bread which are a staple food in the Indian subcontinent. The carbonized wheat grains discovered at the excavations at Mohenjo-daro are of a similar variety to an endemic species of wheat still to be found in India today. ",
         },
         {
-          id:20,
+            id:"20",
           image:'https://tse2.mm.bing.net/th?id=OIP.TxQdXkKqTz_A9BtutwqfMgHaEK&pid=Api&P=0&w=329&h=185',
           name:'Manchuria',
           info:'Manchurian is a class of Indian Chinese dishes made by roughly chopping and deep-frying ingredients such as chicken, cauliflower (gobi), prawns, fish, mutton, and paneer,',
@@ -164,7 +164,7 @@ const get = (req, res) => {
           date:"Food/20/04/2022"
         },
         {
-          id:21,
+            id:"21",
           image:"https://1.bp.blogspot.com/-2G41xqhVg80/XaXvkx2z0-I/AAAAAAAAAFY/oyQM0YvdilEGm0PzKUcj6FEpkwa2GlhnQCLcBGAsYHQ/w1200-h630-p-k-no-nu/communication-digitale.gif",
           name:"Communication-Technology",
           info:"Communication is indeed rather essential in all aspects of our personal and professional life to express emotions, share information, exchange ideas and what not",
@@ -172,7 +172,7 @@ const get = (req, res) => {
       description:"Communication technology definition Communication technology refers to all the tools used to send, receive, and process information. In today’s fast climate, efficiency and convenience are the keys to successful communication technology.",
       },
       {
-          id:22,
+        id:"22",
           image:"https://www.trade.gov/sites/default/files/2020-09/Health%2025%20-%20MedTech.jpeg",
           name:"Medical-Technology",
           info:"Medical Technology can be defined as the technologies that diagnose, treat and/or improve a person’s health and wellbeing.",
@@ -180,7 +180,7 @@ const get = (req, res) => {
           description:"Medical technology includes medical and surgical procedures, drugs, equipment and facilities, and the organizational and supportive systems within which care is provided. ",
       },
       {
-          id:23,
+        id:"23",
           image:"https://tse1.mm.bing.net/th?id=OIP.4hFnQfuAVvzo4bheVeii-AHaE8&pid=Api&P=0&w=253&h=168",
           name:"Robot-Technology",
           info:"Robotics technology is a field which is related to artificial intelligence. It is the utilization of machines, operation, and designing robots for performing tasks that were done by humans",
@@ -189,7 +189,7 @@ const get = (req, res) => {
       },
   
       {
-          id:24,
+        id:"24",
           image:"https://tse4.mm.bing.net/th?id=OIP.9OknM8aS9y2KKawnSHDCfgAAAA&pid=Api&P=0&w=231&h=171",
           name:"Agricultural-Technology",
           info:"This technology refers to the technologies for machine production that are utilized on a farm.",
