@@ -164,38 +164,171 @@ const get = (req, res) => {
           date:"Food/20/04/2022"
         },
         {
-            id:"21",
+          id:"21",
           image:"https://1.bp.blogspot.com/-2G41xqhVg80/XaXvkx2z0-I/AAAAAAAAAFY/oyQM0YvdilEGm0PzKUcj6FEpkwa2GlhnQCLcBGAsYHQ/w1200-h630-p-k-no-nu/communication-digitale.gif",
           name:"Communication-Technology",
           info:"Communication is indeed rather essential in all aspects of our personal and professional life to express emotions, share information, exchange ideas and what not",
           date:"Technology/22 jan 2022",
-      description:"Communication technology definition Communication technology refers to all the tools used to send, receive, and process information. In today’s fast climate, efficiency and convenience are the keys to successful communication technology.",
-      },
-      {
+          description:"Communication technology definition Communication technology refers to all the tools used to send, receive, and process information. In today’s fast climate, efficiency and convenience are the keys to successful communication technology.",
+        },
+        {
         id:"22",
           image:"https://www.trade.gov/sites/default/files/2020-09/Health%2025%20-%20MedTech.jpeg",
           name:"Medical-Technology",
           info:"Medical Technology can be defined as the technologies that diagnose, treat and/or improve a person’s health and wellbeing.",
           date:"Technology/22 jan 2022",
           description:"Medical technology includes medical and surgical procedures, drugs, equipment and facilities, and the organizational and supportive systems within which care is provided. ",
-      },
-      {
+        },
+        {
         id:"23",
           image:"https://tse1.mm.bing.net/th?id=OIP.4hFnQfuAVvzo4bheVeii-AHaE8&pid=Api&P=0&w=253&h=168",
           name:"Robot-Technology",
           info:"Robotics technology is a field which is related to artificial intelligence. It is the utilization of machines, operation, and designing robots for performing tasks that were done by humans",
           date:"Technology/22 jan 2022",
           description:"Robots are machines that can carry out complex actions automatically. They generally need three elements: sensors such as cameras, lidar, or microphones; actuators such as motors, pistons or artificial muscles, and controllers.",
-      },
+        },
   
-      {
+       {
         id:"24",
           image:"https://tse4.mm.bing.net/th?id=OIP.9OknM8aS9y2KKawnSHDCfgAAAA&pid=Api&P=0&w=231&h=171",
           name:"Agricultural-Technology",
           info:"This technology refers to the technologies for machine production that are utilized on a farm.",
           date:"Technology/22 jan 2022",
        description:" Mechanical processing of soil so that it is in the proper physical condition for planting is usually referred to as tilling; adding nutrients and trace elements is called fertilizing.application of techniques to control the growth and harvesting of animal and vegetable products",
-      },
+       },
+       {
+        id: "25",
+        name: "Technology",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOybziCsqqTFsvZ7hEh4GzpBYQiVnz_nI29A&usqp=CAU",
+        info: "OnePlus 10 Pro Front Design Teased Ahead of January 11 Launch, China Model Confirmed to Have ColorOS 12.1",
+        date: "by Jagmeet Singh, 10 March 2022",
+        description:
+          "OnePlus 10 Pro front design has been revealed in a new teaser ahead of its official launch. The smartphone appears to have a curved-edge display, which looks similar to the OnePlus 9 Pro. The OnePlus 10 Pro is also teased to debut as the first phone to run on ColorOS 12.1. Although the launch of the new OnePlus phone is still a week away, the Chinese company has continued its trend of creating hype for its next-generation flagship by announcing its features on social media.To reveal the front design of the OnePlus 10 Pro, OnePlus has posted an image on Weibo that gives us a clear view of the phone. It seems to have narrow bezels on left and right sides and a curved design. OnePlus 10 Pro also appears to have a thinner chin and a higher screen-to-body ratio over what we have on the OnePlus 9 Pro.Further, the OnePlus 10 Pro appears with a hole-punch display design where the selfie camera is positioned on the top-left side. This is identical to last year's models, including OnePlus 9 Pro and OnePlus 8 Pro. OnePlus 10 Pro Price Tipped, Camera Specifications Teased Some earlier teaser images have showcased the OnePlus 10 Pro from its back. The phone seems to have triple rear cameras in a square module.",
+       },
+       {
+        id:"26",
+        name:"kashmir",
+        image:"https://tse1.mm.bing.net/th?id=OIP.iW-fa75MkWoCdmPwyJcnSwHaE7&pid=Api&P=0&w=260&h=173",
+        info:"Jammu & Kashmir, a piece of heaven on earth, is the 19th largest state in India and it is located mostly all in the Himalayan mountains. ",
+        date:"Tourism /22 jan 2022" ,
+        description:"Some major tourist attractions in Jammu and Kashmir are Srinagar, the Mughal Gardens, Gulmarg, Pahalgam, Patnitop and Jammu. Every year, thousands of Hindu pilgrims visit holy shrines of Vaishno Devi and Amarnath which has had significant impact on the state's economy.",
+       },
+       {
+        id:"27",
+        image:"https://moviekoop.com/Images/Cover_Photos/r-rajkumar-Poster.jpg",
+        name:"R-Rajkumar",
+        info:"Rajkumar, an aimless youth, works for a drug baron and is sent to kill a rival dealer. His life is changed forever when he meets Chanda.",
+        date:'Bollywood /22 jan 2022',
+        description:"Romeo Rajkumar is an aimless youth who arrives in Dhartipur, a small town ruled by two drug barons named Shivraj Gurjar and his arch-enemy Manik Parmar, controlled by a Mafia don named Ajit Taaka, who operates in Hong Kong."
+       },
+       {
+        id:"28",
+        name:"Radhe Shyam",
+        image:"https://tse1.mm.bing.net/th?id=OIP.Ma1SI1kLBucnmPmgxGKOlAHaEH&pid=Api&P=0&w=284&h=158",
+        info:"A renowned palmist falls in love with a doctor who does not believe in superstitious beliefs.",
+        description:". Vikramaditya, who does not believe in relationships, instantly falls for doctor Prerana. They meet on a train but separate thereafter. One day, Vikramaditya reads the palm of businessman Anand Rajput. As Vikramaditya does not predict the future in his favour, Rajput's men chase him which results in his accident.",
+        date:"11/03/2022"
+       },
+      {
+        id:"29",
+        image:"https://tse1.mm.bing.net/th?id=OIP.VswQRXV_co-QYXJDpUhDLgHaEo&pid=Api&P=0&w=261&h=163",
+        name:"Goa",
+        info:"The state of Goa, in India, is famous for its beaches and places of worship. Tourism is its primary industry, and is generally focused on the coastal areas of Goa, with decreased tourist activity inland.",
+        date:"15/12/2021",
+        description:"This relatively small state is situated on the west coast of India, between the borders of Maharashtra and Karnataka, and is better known to the world as a former Portuguese enclave on Indian soil. Thus, Tourism forms the backbone of Goa's economy.",
+
+     },
+     {
+        id:"30",
+        image:"https://www.thoughtco.com/thmb/hqNbf8KtYeQx0FqnHsvLaR8iupo=/5486x3110/filters:fill(auto,1)/cricket-bat--ball-and-wickets-in-cricket-ground--636479872-5b20323aeb97de0036a0bae2.jpg",
+        name:"Sports",
+        date:"15/12/2021",
+        info:'Cricket is the most popular sport in India by far, and is played almost everywhere in the country.',
+        description:"The Board of Control for Cricket in India (BCCI) is the governing body of Indian cricket and conduct all domestic tournaments and select the members Indian national cricket team. Domestic competitions in India include the Ranji Trophy, the Duleep Trophy, the Vijay Hazare Trophy",
+     },
+     {
+        id:"31",
+        image:"https://tse4.mm.bing.net/th?id=OIP.hPjY4R-61B8WKKUp87fSFwHaEQ&pid=Api&P=0&w=284&h=1639",
+        name:"Fashion",
+        info:"Fashion design is the art of applying design, aesthetics, clothing construction and natural beauty to clothing and its accessories. ",
+        description:"It is influenced by culture and different trends, and has varied over time and place. A fashion designer creates clothing, including dresses, suits, pants, and skirts, and accessories like shoes and handbags, for consumers.",
+        date:"12/06/2021"
+     },
+    {
+        id:"32",
+        image:"https://images.businessoffashion.com/uploads/media/slider_image/0001/42/cb78815d0dad4729269a9c10608e44461d8b3aa6.jpeg?auto=format%2Ccompress&crop=faces&fit=crop&w=1200",
+        name:"Clothing technology",
+        date:"12/05/2021",
+        info:"Clothing technology involves the manufacturing, materials, and design innovations that have been developed and used.",
+        description:"The timeline of clothing and textiles technology includes major changes in the manufacture and distribution of clothing.From clothing in the ancient world into modernity, the use of technology has dramatically influenced clothing and fashion in the modern age. Industrialization brought changes in the manufacture of goods. In many nations, homemade goods crafted by hand have largely been replaced by factory produced goods on assembly lines purchased in a consumer culture."
+    },
+    {
+      id:"33",   
+      image:"https://4.bp.blogspot.com/-j1rGJ7HQn1M/UtfKuF3yPRI/AAAAAAAAEVU/N2lUwaTodtw/s1600/alappuzha-in-kerala.jpg",
+      name:"Kerala-Gods own Country",
+      info:"Kerala, located on the south-western tip of India, enjoys unique geographical features that have made it one of the most sought-after tourist destinations in Asia.",
+      date:"Tourism / 22 jan 2022",
+     description:"Kerala is a popular destination for both domestic as well as foreign tourists. Kerala is well known for its beaches, backwaters in Alappuzha and Kollam, mountain ranges and wildlife sanctuaries. Other popular attractions in the state include the beaches at Kovalam, Muzhappilangad",
+     } ,
+     {
+       id:"34",
+       image:"https://foodiewish.com/wp-content/uploads/2020/05/Masala-Dosa-Recipe.jpg",
+       name:"Dosa",
+       date:"Food / 13/11/2021",
+       description:"Its main ingredients are rice and black gram, ground together in a fine, smooth batter with a dash of salt, then fermented. Dosas are a common dish in South Indian cuisine, but now have become popular all over the Indian subcontinent.",
+       info:"A dosa is a thin (usually crispy) crepe originating from South India, made from a fermented batter predominantly consisting of lentils and rice.",
+
+     },
+     {
+      id:"35",
+      name: "Technology",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTSlHnVMFxxqyb86wqUMagl0IsrhZKecENxA&usqp=CAU",
+      info: "iPhone 14 Pro models may feature dual punch-hole display design",
+      date: "Technology, 12 March 2022",
+      description:
+        "According to reports, Apple may abandon the notched display design in favour of a punch-hole display. The normal iPhone 14 model, on the other hand, may not receive the design improvement. According to popular display analyst Ross Young, the pill-shaped notch will be available on the iPhone 14 and iPhone 14 Pro Max.",
+    },
+    {
+      id:"36",
+      image:"https://tse2.mm.bing.net/th?id=OIP.pBnGBATpCvDbeidpbGN2EQHaEK&pid=Api&P=0&w=302&h=170",
+      name:"Dangal",
+      info:"The film stars Khan as Mahavir Singh Phogat, a pehlwani amateur wrestler who trains his daughters Geeta Phogat and Babita Kumari to become India's first world-class female wrestlers.",
+      date:"Tollywod/ 23/12/2016",
+      description:"Dejected that he could not win a medal for his country, he vows that his unborn son will. Disappointed upon having four daughters, he gives up hope. But when his older daughters Geeta and Babita come home after beating up two boys in response to derogatory comments, he realizes their potential to become wrestlers and begins coaching them."
+    },
+    {
+      id:"37",
+      name:"Weightlifting",
+      image:'https://en.wikipedia.org/wiki/File:Lasha_Talakhadze_Rio_2016.jpg',
+      info:"Olympic weightlifting, or Olympic-style weightlifting (officially named Weightlifting), is a sport in which athletes compete in lifting a barbell loaded with weight plates from the ground to overhead,",
+      description:" Athletes compete in two specific ways of lifting the barbell overhead: these are the snatch and the clean and jerk. The snatch is a wide-grip lift, in which the weighted barbell is lifted overhead in one motion. The clean and jerk is a combination lift, in which the weight is first taken from the ground to the front of the shoulders (the clean), and then from the shoulders to overhead",
+      date:"Sports/24/9/2020"
+    },
+    {
+      id:"38",
+      image:"http://wirally.com/wp-content/uploads/2018/11/6-Reasons-To-Visit-Lambasingi-Kashmir-of-Andhra-Pradesh-This-Winter-Web.jpg",
+      name:"Lammasingii",
+      info:"Lambasingi is famous for its tea and coffee plantations along with little apple and strawberry farms. Moreover, the place is abounding with a variety of wildlife, flora, and fauna. ",
+      date:"Tourism / 22 jan 2022 ",
+      description:"The region was formerly densely covered in forests and known in the past to have supported tigers. The region is known for its diversity of birdlife. Apart, this little hamlet of Lambasingi is home to an isolated tribal community. ",
+     },
+     {
+      id: "39",
+      name: "Nature",
+      image: "https://static.toiimg.com/thumb/msid-88218300,imgsize-165476,width-400,resizemode-4/88218300.jpg",
+      info: "Natural, eco-friendly fibre weaves its way into Surats poly ..",
+      date: " March 11, 2021, 09 .",
+      description:
+        "SURAT: With the world consciously trying to leave at least one carbon footprint less in the sands of time, Suras textile hub, known for its polyester products, too is making efforts into weaving a greener thinking by adopting After introducing plant-based cupro fibre and viscose rayon, the city is now experimenting with fibre and yarn sourced from pineapple, birch wood, banana and bamboo. Few of the products are researched and developed locally, while some innovations made abroad are also trying to find its footing in the man-made fabric hub. Besides fabrics like nylon, cotton, cuprammonium, viscos,inen and a few others, almost 80 percent of fabric products at present are polyester based. “Plantain stems weighing around 45kg each were earlier considered waste and would actually incur the farmer an additional Rs 15,000 per hectare cost for removal of the eco-trash. But now, with the innovation of plant-based fibre, farmers can earn from that waste, said ",
+    },
+    {
+      id:"40",
+      name:"Amazon",
+      image:'https://in.images.search.yahoo.com/images/view;_ylt=Awr1QWS9aXZirNMM5su9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2ExMGRiNGI4NjhmZjEzNGRiNjgxZjMzOWY2YTAxMDA2BGdwb3MDOQRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Damazon%2Bwikipedia%26type%3DE211IN826G91649%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D9&w=980&h=525&imgurl=d500.epimg.net%2Fcincodias%2Fimagenes%2F2018%2F09%2F26%2Fcompanias%2F1537965408_089219_1537965500_noticia_normal.jpg&rurl=https%3A%2F%2Fcincodias.elpais.com%2Fcincodias%2F2018%2F09%2F26%2Fcompanias%2F1537965408_089219.html&size=66.3KB&p=amazon+wikipedia&oid=a10db4b868ff134db681f339f6a01006&fr2=piv-web&fr=mcafee&tt=Amazon+dona+un+mill%C3%B3n+de+euros+a+Wikipedia+%7C+Compa%C3%B1%C3%ADas+%7C+Cinco+D%C3%ADas&b=0&ni=21&no=9&ts=&tab=organic&sigr=O58mzQLSM7Cn&sigb=Qu6Fe2CxYL5y&sigi=NOZBgdox49dl&sigt=xtFo.YwvdF8i&.crumb=BaF4ER/SMya&fr=mcafee&fr2=piv-web&type=E211IN826G91649',
+      info:"Amazon.com, Inc. is an American multinational technology company which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence",
+      description:"It has been referred to as one of the most influential economic and cultural forces in the world, and is one of the world's most valuable brands.[9] It is one of the Big Five American information technology companies, alongside Alphabet, Apple, Meta, and Microsoft.",
+      date:"Technology/05/07/1994",
+    },
           
     ];
     if (req.params.category) {
