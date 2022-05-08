@@ -203,7 +203,7 @@ const get = (req, res) => {
         info: "OnePlus 10 Pro Front Design Teased Ahead of January 11 Launch, China Model Confirmed to Have ColorOS 12.1",
         date: "by Jagmeet Singh, 10 March 2022",
         description:
-          "OnePlus 10 Pro front design has been revealed in a new teaser ahead of its official launch. The smartphone appears to have a curved-edge display, which looks similar to the OnePlus 9 Pro. The OnePlus 10 Pro is also teased to debut as the first phone to run on ColorOS 12.1. Although the launch of the new OnePlus phone is still a week away, the Chinese company has continued its trend of creating hype for its next-generation flagship by announcing its features on social media.To reveal the front design of the OnePlus 10 Pro, OnePlus has posted an image on Weibo that gives us a clear view of the phone. It seems to have narrow bezels on left and right sides and a curved design. OnePlus 10 Pro also appears to have a thinner chin and a higher screen-to-body ratio over what we have on the OnePlus 9 Pro.Further, the OnePlus 10 Pro appears with a hole-punch display design where the selfie camera is positioned on the top-left side. This is identical to last year's models, including OnePlus 9 Pro and OnePlus 8 Pro. OnePlus 10 Pro Price Tipped, Camera Specifications Teased Some earlier teaser images have showcased the OnePlus 10 Pro from its back. The phone seems to have triple rear cameras in a square module.",
+          "OnePlus 10 Pro front design has been revealed in a new teaser ahead of its official launch. The smartphone appears to have a curved-edge display, which looks similar to the OnePlus 9 Pro. The OnePlus 10 Pro is also teased to debut as the first phone to run on ColorOS 12.1.",
        },
        {
         id:"26",
@@ -260,7 +260,7 @@ const get = (req, res) => {
         name:"Clothing technology",
         date:"12/05/2021",
         info:"Clothing technology involves the manufacturing, materials, and design innovations that have been developed and used.",
-        description:"The timeline of clothing and textiles technology includes major changes in the manufacture and distribution of clothing.From clothing in the ancient world into modernity, the use of technology has dramatically influenced clothing and fashion in the modern age. Industrialization brought changes in the manufacture of goods. In many nations, homemade goods crafted by hand have largely been replaced by factory produced goods on assembly lines purchased in a consumer culture."
+        description:"The timeline of clothing and textiles technology includes major changes in the manufacture and distribution of clothing.From clothing in the ancient world into modernity,the use of technology has dramatically influenced clothingthe use of technology has dramatically influenced clothing and fashion in the modern age.", 
     },
     {
       id:"33",   
@@ -299,7 +299,7 @@ const get = (req, res) => {
     {
       id:"37",
       name:"Weightlifting",
-      image:'https://en.wikipedia.org/wiki/File:Lasha_Talakhadze_Rio_2016.jpg',
+      image:'https://tse1.mm.bing.net/th?id=OIP.xzFPzJYLPVcT4gXrjpgtdAHaEM&pid=Api&P=0&w=271&h=153',
       info:"Olympic weightlifting, or Olympic-style weightlifting (officially named Weightlifting), is a sport in which athletes compete in lifting a barbell loaded with weight plates from the ground to overhead,",
       description:" Athletes compete in two specific ways of lifting the barbell overhead: these are the snatch and the clean and jerk. The snatch is a wide-grip lift, in which the weighted barbell is lifted overhead in one motion. The clean and jerk is a combination lift, in which the weight is first taken from the ground to the front of the shoulders (the clean), and then from the shoulders to overhead",
       date:"Sports/24/9/2020"
@@ -319,7 +319,7 @@ const get = (req, res) => {
       info: "Natural, eco-friendly fibre weaves its way into Surats poly ..",
       date: " March 11, 2021, 09 .",
       description:
-        "SURAT: With the world consciously trying to leave at least one carbon footprint less in the sands of time, Suras textile hub, known for its polyester products, too is making efforts into weaving a greener thinking by adopting After introducing plant-based cupro fibre and viscose rayon, the city is now experimenting with fibre and yarn sourced from pineapple, birch wood, banana and bamboo. Few of the products are researched and developed locally, while some innovations made abroad are also trying to find its footing in the man-made fabric hub. Besides fabrics like nylon, cotton, cuprammonium, viscos,inen and a few others, almost 80 percent of fabric products at present are polyester based. “Plantain stems weighing around 45kg each were earlier considered waste and would actually incur the farmer an additional Rs 15,000 per hectare cost for removal of the eco-trash. But now, with the innovation of plant-based fibre, farmers can earn from that waste, said ",
+        "SURAT: With the world consciously trying to leave at least one carbon footprint less in the sands of time, Suras textile hub, known for its polyester products, too is making efforts into weaving a greener thinking by adopting After introducing plant-based cupro fibre and viscose rayon, the city is now experimenting with fibre and yarn sourced from pineapple, birch wood, banana and bamboo.",
     },
     {
       id:"40",
