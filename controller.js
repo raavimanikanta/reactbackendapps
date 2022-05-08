@@ -7,7 +7,7 @@ const get = (req, res) => {
             name:"Air transport",
             info:"Air transport is the most recent mode of transport. It is the gift of the 20th century to the world.",
             description:"Air transport is an aircraft design for transporting passengers and freight from one location to another in the air using airplanes, jets, rockets helicopters, and drones. Each of these type of air transport has a unique way of achieving speed and the sustainability of it voyage",
-            date:"22/12/2022"
+            date:"Transport/22/12/2022"
   
            },
            {
@@ -16,7 +16,7 @@ const get = (req, res) => {
                name:"Rail transport",
                info:"Rail transport is a means of transferring passengers and goods on wheeled vehicles running on rails, which are located on tracks.",
                description:" In contrast to road transport, where the vehicles run on a prepared flat surface, rail vehicles (rolling stock) are directionally guided by the tracks on which they run. Tracks usually consist of steel rails, installed on sleepers (ties) set in ballast, on which the rolling stock, usually fitted with metal wheels, moves.",
-               date:"22/12/2022"
+               date:"Transport/22/12/2022"
            },
           {
             id:"3",
@@ -24,7 +24,7 @@ const get = (req, res) => {
               name:"Road transport",
               info:"Road Transport is considered to be one of the most cost effective and preferred mode of transport",
               description:"Road transport can be classified as transporting either goods and materials or transporting people. The major advantage of road transport is that it can enable door-to-door delivery of goods and materials and can provide a very cost-effective means of cartage, loading and unloading",
-              date:"22/12/2022"
+              date:"Transport/22/12/2022"
           },
           {
             id:"4",
@@ -32,7 +32,7 @@ const get = (req, res) => {
               name:"Sea transport",
               info:" waterborne transport, is the transport of people (passengers) or goods (cargo) via waterways.",
               description:"Transport by water is cheaper than transport by air,[1] despite fluctuating exchange rates and a fee placed on top of freighting charges for carrier companies known as the currency adjustment factor Maritime transport can be realized over any distance by boat, ship, sailboat or barge, over oceans and lakes, through canals or along rivers. ",
-              date:"22/12/2022"
+              date:"Transport/22/12/2022"
           },
           {
             id:"5",
@@ -40,7 +40,7 @@ const get = (req, res) => {
               name:"Pipeline transport",
               info:"Pipeline transport is the long-distance transportation of a liquid or gas through a system of pipes to a market area for consumption",
               description:"Liquids and gases are transported in pipelines, and any chemically stable substance can be sent through a pipeline.[2] Pipelines exist for the transport of crude and refined petroleum, fuels – such as oil, natural gas and biofuels ",
-              date:"22/12/2022"
+              date:"Transport/22/10/2021"
           },
           {
             id:"6",
@@ -48,7 +48,7 @@ const get = (req, res) => {
               name:"KGF 2",
               info:"Rocky kills heir apparent Virat and takes charge as the kingpin of Kolar Gold Fields (K.G.F)",
               description:"He issues orders to start work in eight hidden mines. Meanwhile, Adheera resurfaces and kills all guards at an outpost. In a ruse to bring Rocky to Adheera, Andrews kills Desai to lure Reena outside K.G.F, and John captures Reena. Adheera shoots Rocky but spares his life, while his men roadblock all gold exports from K.G.F.",
-              date:"14/04/2022"
+              date:"Tollywood/14/04/2022"
           },
           {
             id:"7",
@@ -56,7 +56,7 @@ const get = (req, res) => {
              name:"Bahubali 2",
              info:"In the kingdom of Mahishmati, while pursuing his love, Shivudu learns about the conflict ridden past of his family and his legacy. He must now prepare himself to face his newfound arch-enemy. ",
              description:"She kills two soldiers pursuing and attempts to cross a raging river, but slips and is washed away in the current. Before drowning, she holds the baby aloft with her hand and prays to Lord Siva, demanding that the baby who is Mahendra Baahubali, must live.",
-             date:"10/07/2015"
+             date:"Tollywood/10/07/2015"
   
           },
          {
@@ -65,7 +65,7 @@ const get = (req, res) => {
              name:"Jersey",
              info:"Jersey is about a cricketer who quits cricket decides to revive his career at the age of 36 for his sons dream and prove his ability. Arjun who is aiming to play for the Indian national team to fulfill his son's desire for a jersey.",
              description:"Jersey is about a cricketer who quits cricket decides to revive his career at the age of 36 for his sons dream and prove his ability. Arjun who is aiming to play for the Indian national team to fulfill his son's desire for a jersey.",
-             date:"22/04/2022"
+             date:"Tollywood/22/04/2022"
          },
          {
             id:"9",
@@ -73,7 +73,7 @@ const get = (req, res) => {
              name:"Pushpa",
              info:"Violence erupts between red sandalwood smugglers and the police charged with bringing down their organization",
              description:"Pushpa Raj is a coolie who works to smuggle red sandalwood, a rare wood that only grows in the Seshachalam Hills of the Chittoor district in Andhra Pradesh. When DSP Govindappa raids them in the forest, Pushpa hides and recovers the stock, thereby gaining the trust of his employer Konda Reddy.",
-             date:"17/12/2021"
+             date:"Tollywood/17/12/2021"
          },
          {
             id:"10",
@@ -81,7 +81,7 @@ const get = (req, res) => {
              name:"RRR",
              info:"In 1920, British governor Scott and his wife Catherine visit Adilabad forest, and forcefully take away Malli, a talented girl from the Gond tribe to Delhi.",
              description:"To res protector Komaram Bheem arrives in Delhi. The Nizamate of Hycue the girl, the tribe'sderabad warns Scott's office about Bheem's mission. Police officer A. Rama Raju volunteers to catch Bheem in order to get a promotion",
-             date:"24/03/2022"
+             date:"Tollywood/24/03/2022"
          },
          {
             id:"11",
@@ -201,7 +201,7 @@ const get = (req, res) => {
         name: "Technology",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOybziCsqqTFsvZ7hEh4GzpBYQiVnz_nI29A&usqp=CAU",
         info: "OnePlus 10 Pro Front Design Teased Ahead of January 11 Launch, China Model Confirmed to Have ColorOS 12.1",
-        date: "by Jagmeet Singh, 10 March 2022",
+        date: "Technology/10 March 2022",
         description:
           "OnePlus 10 Pro front design has been revealed in a new teaser ahead of its official launch. The smartphone appears to have a curved-edge display, which looks similar to the OnePlus 9 Pro. The OnePlus 10 Pro is also teased to debut as the first phone to run on ColorOS 12.1.",
        },
@@ -227,14 +227,14 @@ const get = (req, res) => {
         image:"https://tse1.mm.bing.net/th?id=OIP.Ma1SI1kLBucnmPmgxGKOlAHaEH&pid=Api&P=0&w=284&h=158",
         info:"A renowned palmist falls in love with a doctor who does not believe in superstitious beliefs.",
         description:". Vikramaditya, who does not believe in relationships, instantly falls for doctor Prerana. They meet on a train but separate thereafter. One day, Vikramaditya reads the palm of businessman Anand Rajput. As Vikramaditya does not predict the future in his favour, Rajput's men chase him which results in his accident.",
-        date:"11/03/2022"
+        date:"Tollywood/11/03/2022"
        },
       {
         id:"29",
         image:"https://tse1.mm.bing.net/th?id=OIP.VswQRXV_co-QYXJDpUhDLgHaEo&pid=Api&P=0&w=261&h=163",
         name:"Goa",
         info:"The state of Goa, in India, is famous for its beaches and places of worship. Tourism is its primary industry, and is generally focused on the coastal areas of Goa, with decreased tourist activity inland.",
-        date:"15/12/2021",
+        date:"Tourism/15/12/2021",
         description:"This relatively small state is situated on the west coast of India, between the borders of Maharashtra and Karnataka, and is better known to the world as a former Portuguese enclave on Indian soil. Thus, Tourism forms the backbone of Goa's economy.",
 
      },
@@ -242,7 +242,7 @@ const get = (req, res) => {
         id:"30",
         image:"https://www.thoughtco.com/thmb/hqNbf8KtYeQx0FqnHsvLaR8iupo=/5486x3110/filters:fill(auto,1)/cricket-bat--ball-and-wickets-in-cricket-ground--636479872-5b20323aeb97de0036a0bae2.jpg",
         name:"Sports",
-        date:"15/12/2021",
+        date:"Sports/15/12/2021",
         info:'Cricket is the most popular sport in India by far, and is played almost everywhere in the country.',
         description:"The Board of Control for Cricket in India (BCCI) is the governing body of Indian cricket and conduct all domestic tournaments and select the members Indian national cricket team. Domestic competitions in India include the Ranji Trophy, the Duleep Trophy, the Vijay Hazare Trophy",
      },
@@ -252,13 +252,13 @@ const get = (req, res) => {
         name:"Fashion",
         info:"Fashion design is the art of applying design, aesthetics, clothing construction and natural beauty to clothing and its accessories. ",
         description:"It is influenced by culture and different trends, and has varied over time and place. A fashion designer creates clothing, including dresses, suits, pants, and skirts, and accessories like shoes and handbags, for consumers.",
-        date:"12/06/2021"
+        date:"Fashion/12/06/2021"
      },
     {
         id:"32",
         image:"https://images.businessoffashion.com/uploads/media/slider_image/0001/42/cb78815d0dad4729269a9c10608e44461d8b3aa6.jpeg?auto=format%2Ccompress&crop=faces&fit=crop&w=1200",
         name:"Clothing technology",
-        date:"12/05/2021",
+        date:"Technology/12/05/2021",
         info:"Clothing technology involves the manufacturing, materials, and design innovations that have been developed and used.",
         description:"The timeline of clothing and textiles technology includes major changes in the manufacture and distribution of clothing.From clothing in the ancient world into modernity,the use of technology has dramatically influenced clothingthe use of technology has dramatically influenced clothing and fashion in the modern age.", 
     },
@@ -284,7 +284,7 @@ const get = (req, res) => {
       name: "Technology",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTSlHnVMFxxqyb86wqUMagl0IsrhZKecENxA&usqp=CAU",
       info: "iPhone 14 Pro models may feature dual punch-hole display design",
-      date: "Technology, 12 March 2022",
+      date: "Technology/12/03/2022",
       description:
         "According to reports, Apple may abandon the notched display design in favour of a punch-hole display. The normal iPhone 14 model, on the other hand, may not receive the design improvement. According to popular display analyst Ross Young, the pill-shaped notch will be available on the iPhone 14 and iPhone 14 Pro Max.",
     },
@@ -317,7 +317,7 @@ const get = (req, res) => {
       name: "Nature",
       image: "https://static.toiimg.com/thumb/msid-88218300,imgsize-165476,width-400,resizemode-4/88218300.jpg",
       info: "Natural, eco-friendly fibre weaves its way into Surats poly ..",
-      date: " March 11, 2021, 09 .",
+      date: "Nature/15/06/2020",
       description:
         "SURAT: With the world consciously trying to leave at least one carbon footprint less in the sands of time, Suras textile hub, known for its polyester products, too is making efforts into weaving a greener thinking by adopting After introducing plant-based cupro fibre and viscose rayon, the city is now experimenting with fibre and yarn sourced from pineapple, birch wood, banana and bamboo.",
     },
