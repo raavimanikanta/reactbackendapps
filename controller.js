@@ -301,7 +301,7 @@ const get = (req, res) => {
       name:"Weightlifting",
       image:'https://tse1.mm.bing.net/th?id=OIP.xzFPzJYLPVcT4gXrjpgtdAHaEM&pid=Api&P=0&w=271&h=153',
       info:"Olympic weightlifting, or Olympic-style weightlifting (officially named Weightlifting), is a sport in which athletes compete in lifting a barbell loaded with weight plates from the ground to overhead,",
-      description:" Athletes compete in two specific ways of lifting the barbell overhead: these are the snatch and the clean and jerk. The snatch is a wide-grip lift, in which the weighted barbell is lifted overhead in one motion. The clean and jerk is a combination lift, in which the weight is first taken from the ground to the front of the shoulders (the clean), and then from the shoulders to overhead",
+      description:" Athletes compete in two specific ways of lifting the barbell overhead: these are the snatch and the clean and jerk. The snatch is a wide-grip lift, in which the weighted barbell is lifted overhead in one motion. The clean and jerk is a combination lift, in which the weight is first taken from the ground to the front of the shouldersand then from the shoulders to overhead",
       date:"Sports/24/9/2020"
     },
     {
